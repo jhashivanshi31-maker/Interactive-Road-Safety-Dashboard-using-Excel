@@ -60,7 +60,7 @@ The goal of this project is to analyze traffic accident data and identify key tr
 
   Data visualization was done using pivot charts,
 
-  Pivot Tables and Pivot Charts
+  Pivot Tables and Pivot Charts 
 
   ![image](https://github.com/jhashivanshi31-maker/Interactive-Road-Safety-Dashboard-using-Excel/blob/main/image/4.png)
 
