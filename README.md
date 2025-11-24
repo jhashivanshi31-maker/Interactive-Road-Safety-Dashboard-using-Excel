@@ -28,7 +28,10 @@ The goal of this project is to analyze traffic accident data and identify key tr
 
   Data was taken from Kaggle
   Data is available in the google drive link below:
-  https://drive.google.com/file/d/1R_uaoZL18nRbqC_MULVne90h3SdRbAyn/view
+  https://drive.google.com/drive/u/0/folders/1iKaJxJ2mnFVY9U-9FgxdaP2wW4zhJnno
+  
+
+  
 
 ### 2. Understanding the Business Case
 
@@ -58,7 +61,7 @@ The goal of this project is to analyze traffic accident data and identify key tr
 
 ### 6. Data Visualisation (using charts to show insights)
 
-  Data visualization was done using pivot charts,
+  Data visualization was done using pivot charts, 
 
   Pivot Tables and Pivot Charts 
 
